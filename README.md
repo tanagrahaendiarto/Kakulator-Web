@@ -1,5 +1,5 @@
-**Kalkulator Interaktif (HTML, CSS, JavaScript)
-**
+**Kalkulator Interaktif (HTML, CSS, JavaScript)**
+
 Proyek ini merupakan aplikasi kalkulator berbasis web yang dibuat menggunakan HTML, CSS, dan JavaScript. Aplikasi ini dirancang untuk melakukan perhitungan matematika dasar dengan antarmuka yang sederhana dan mudah digunakan. Kalkulator dapat dioperasikan menggunakan klik mouse maupun input keyboard, dilengkapi dengan mode gelap dan terang, mendukung operasi persentase, serta memiliki tampilan yang responsif untuk perangkat mobile.
 
 **Fitur Utama**
@@ -17,6 +17,7 @@ Tampilan responsif untuk perangkat desktop dan mobile
 Fitur clear dan backspace
 
 **Kontrol Keyboard**
+
 Tombol	Fungsi
 0–9	Input angka
 +, -, *, /	Operasi matematika
@@ -56,5 +57,7 @@ Aplikasi kalkulator siap digunakan
 Aplikasi telah disesuaikan untuk berjalan dengan baik pada berbagai ukuran layar, termasuk desktop, tablet, dan smartphone baik dalam mode potret maupun lanskap.
 
 **Author**
+
 Nama: Tana Graha Endiarto
+
 Tahun: 2025
